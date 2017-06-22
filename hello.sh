@@ -1,4 +1,6 @@
 #!/bin/bash
 
-echo "hi
-"
+echo "hi"
+echo "test"
+
+
